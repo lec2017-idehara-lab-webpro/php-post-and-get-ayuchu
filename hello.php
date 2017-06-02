@@ -8,7 +8,7 @@
 
 <?php
 
-var_dump($_GET);
+print 'HELLO' . $_GET['id'];
 
 ?>
 
